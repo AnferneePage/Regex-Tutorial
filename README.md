@@ -85,6 +85,6 @@ Character escapes are used to match special characters that have a predefined me
 <a id="author"></a>
 ## Author
 
-This tutorial was written by Latrell Page. If you found this tutorial helpful, feel free to check out my GitHub profile for more programming and technology-related content. https://github.com/AnferneePage/Regex-Tutorial
+This tutorial was written by Latrell Page. If you found this tutorial helpful, feel free to check out my GitHub profile for more programming and technology-related content. https://github.com/latrellPage
 
 Congratulations! You've completed the "Introduction to Regular Expressions (Regex)" tutorial. Regular expressions are a vast topic, and this tutorial provides a solid foundation for your regex journey. Happy pattern matching!
